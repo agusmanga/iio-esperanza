@@ -13,7 +13,7 @@ El numero esperado de retornos al estado 1 se calcula de la siguiente manera:
 R1 = 1 / (1-φ) = 1 / (1 - 2/3) = 3
 
 Entonces por la ley de los grandes numeros:
-La Ley de los Grandes Números es un teorema fundamental en la teoría de la probabilidad y la estadística. Esta ley establece que, a medida que aumenta el número de repeticiones de un experimento aleatorio, la media de los resultados observados tiende a aproximarse al valor esperado teórico.
+(La Ley de los Grandes Números es un teorema fundamental en la teoría de la probabilidad y la estadística. Esta ley establece que, a medida que aumenta el número de repeticiones de un experimento aleatorio, la media de los resultados observados tiende a aproximarse al valor esperado teórico.)
 
 tenemos que en teoria, el promedio de veces que se vuelve al estado 1 en muchas repeticiones deberia ser 3.
 
